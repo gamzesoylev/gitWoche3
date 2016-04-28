@@ -5,6 +5,7 @@ public class LoopingFun {
 		int a=0;
 		int b=0;
 		int c=0
+		int d=0;
 		for(int i=1 ; i <= 100 ; i++)
 		{
 			if(i%3 == 0 && i%5 == 0)
