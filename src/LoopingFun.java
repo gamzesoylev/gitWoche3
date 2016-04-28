@@ -13,7 +13,7 @@ public class LoopingFun {
 			{
 				System.out.println("bar");
 			}else
-			System.out.println(i);
+			System.out.println(i)
 		}
 	}
 }
