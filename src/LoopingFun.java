@@ -2,6 +2,7 @@
 public class LoopingFun {
 	public static void main(String[] args) {
 		int count=0;
+		int a=0;
 		for(int i=1 ; i <= 100 ; i++)
 		{
 			if(i%3 == 0 && i%5 == 0)
@@ -13,7 +14,7 @@ public class LoopingFun {
 			{
 				System.out.println("bar");
 			}else
-			System.out.println(i)
+			System.out.println(i);
 		}
 	}
 }
